@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoGeneratorSettingsState">
+    <option name="moduleName" value="db-lab-1" />
+    <option name="moduleNameToSettings">
+      <map>
+        <entry key="db-lab-1">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="DatabaseSettingsState">
+    <option name="language" value="uk-UA" />
+  </component>
+</project>
